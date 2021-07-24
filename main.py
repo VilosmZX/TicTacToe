@@ -144,6 +144,6 @@ def flip_player():
   
   return
     
-
+# Start the program
 if __name__ == '__main__':
   game()
